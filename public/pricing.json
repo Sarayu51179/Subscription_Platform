@@ -1,0 +1,43 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "name": "Basic",
+      "monthlyPrice": 5,
+      "yearlyPrice": 48,
+      "recommended": false,
+      "features": [
+        "Watch on 1 mobile device",
+        "SD quality",
+        "Limited downloads",
+        "Ad-supported experience"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "monthlyPrice": 10,
+      "yearlyPrice": 96,
+      "recommended": true,
+      "features": [
+        "Watch on 2 devices",
+        "HD quality",
+        "Unlimited downloads",
+        "No ads"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "monthlyPrice": 15,
+      "yearlyPrice": 144,
+      "recommended": false,
+      "features": [
+        "Watch on 4 devices",
+        "Ultra HD",
+        "Offline downloads",
+        "Priority support"
+      ]
+    }
+  ]
+}
